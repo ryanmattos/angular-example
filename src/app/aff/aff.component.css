@@ -1,0 +1,21 @@
+#dale {
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 50px;
+  font-family: "Montserrat", sans-serif;
+
+  flex-direction: column;
+}
+
+#dale > img {
+  width: 350px;
+  height: 350px;
+
+  object-fit: cover;
+
+  margin-bottom: 15px;
+}
